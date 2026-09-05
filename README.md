@@ -7,4 +7,3 @@ The title 8th/9th/10th represent each grade level, and you have two columns for 
 
 
 
-How to write a readme?
